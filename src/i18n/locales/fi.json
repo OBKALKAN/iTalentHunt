@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "services": "Palvelut",
+    "about": "Tietoa meistä",
+    "careers": "Työpaikat",
+    "contact": "Yhteystiedot",
+    "getStarted": "Aloita"
+  },
+  "hero": {
+    "title": "Vapauta yrityksesi",
+    "titleHighlight": "täysi potentiaali",
+    "subtitle": "Yhdistämme poikkeukselliset lahjakkuudet tulevaisuuteen suuntautuvien yritysten kanssa. Muunna työvoimasi innovatiivisilla HR-ratkaisuillamme.",
+    "cta": {
+      "primary": "Aloita",
+      "secondary": "Lue lisää"
+    },
+    "stats": {
+      "companies": "Palveltua yritystä",
+      "success": "Onnistumisprosentti",
+      "talents": "Sijoitettua osaajaa"
+    }
+  },
+  "services": {
+    "title": "Palvelumme",
+    "subtitle": "Kattavat HR-ratkaisut räätälöitynä tarpeisiisi",
+    "items": {
+      "recruitment": {
+        "title": "Rekrytointi",
+        "description": "Löydä täydellinen lisäys tiimiisi dataohjatulla rekrytointiprosessillamme."
+      },
+      "consulting": {
+        "title": "HR-konsultointi",
+        "description": "Strategiset HR-ratkaisut organisaatiorakenteen ja prosessien optimointiin."
+      },
+      "development": {
+        "title": "Urakehitys",
+        "description": "Kattavat ohjelmat työntekijöiden kasvuun ja taitojen kehittämiseen."
+      },
+      "performance": {
+        "title": "Suorituskyvyn hallinta",
+        "description": "Työkalut ja strategiat työvoiman tuottavuuden mittaamiseen ja parantamiseen."
+      }
+    }
+  },
+  "about": {
+    "title": "Tietoa iTalentHuntista",
+    "description": "Vuodesta 2010 lähtien olemme uudistaneet yritysten tapaa lähestyä rekrytointia ja henkilöstöhallintoa. Innovatiiviset ratkaisumme ovat auttaneet satoja organisaatioita rakentamaan vahvempia tiimejä ja saavuttamaan tavoitteensa.",
+    "values": {
+      "global": {
+        "title": "Globaali ulottuvuus",
+        "description": "Toimimme yli 30 maassa monipuolisen ammattilaisten verkoston kanssa."
+      },
+      "excellence": {
+        "title": "Erinomaisuus",
+        "description": "Sitoudumme toimittamaan erinomaisia tuloksia ja ylittämään odotukset."
+      },
+      "efficiency": {
+        "title": "Tehokkuus",
+        "description": "Virtaviivaistetut prosessit, jotka säästävät aikaa laadusta tinkimättä."
+      },
+      "trust": {
+        "title": "Luottamus",
+        "description": "Rakennamme kestäviä suhteita läpinäkyvyyden ja rehellisyyden kautta."
+      }
+    }
+  },
+  "contact": {
+    "title": "Ota yhteyttä",
+    "subtitle": "Oletko valmis muuttamaan HR-toimintaasi? Ota yhteyttä tänään ja keskustellaan, miten voimme auttaa organisaatiotasi menestymään.",
+    "form": {
+      "firstName": "Etunimi",
+      "lastName": "Sukunimi",
+      "email": "Sähköposti",
+      "message": "Viesti",
+      "submit": "Lähetä viesti"
+    },
+    "info": {
+      "title": "Yhteystiedot",
+      "email": "Sähköposti",
+      "phone": "Puhelin",
+      "address": "Osoite"
+    }
+  },
+  "language": {
+    "en": "Englanti",
+    "fi": "Suomi",
+    "tr": "Turkki"
+  }
+}

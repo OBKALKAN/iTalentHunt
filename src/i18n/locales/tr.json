@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "services": "Hizmetler",
+    "about": "Hakkımızda",
+    "careers": "Kariyer",
+    "contact": "İletişim",
+    "getStarted": "Başla"
+  },
+  "hero": {
+    "title": "Şirketinizin",
+    "titleHighlight": "Tam Potansiyelini Açığa Çıkarın",
+    "subtitle": "İstisnai yetenekleri ileriye dönük şirketlerle buluşturuyoruz. Yenilikçi İK çözümlerimizle iş gücünüzü dönüştürün.",
+    "cta": {
+      "primary": "Başla",
+      "secondary": "Daha Fazla Bilgi"
+    },
+    "stats": {
+      "companies": "Hizmet Verilen Şirket",
+      "success": "Başarı Oranı",
+      "talents": "Yerleştirilen Yetenek"
+    }
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "İhtiyaçlarınıza özel kapsamlı İK çözümleri",
+    "items": {
+      "recruitment": {
+        "title": "Yetenek Kazanımı",
+        "description": "Veri odaklı işe alım sürecimizle ekibiniz için mükemmel eşleşmeyi bulun."
+      },
+      "consulting": {
+        "title": "İK Danışmanlığı",
+        "description": "Organizasyon yapınızı ve süreçlerinizi optimize etmek için stratejik İK çözümleri."
+      },
+      "development": {
+        "title": "Kariyer Gelişimi",
+        "description": "Çalışan gelişimi ve beceri artırımı için kapsamlı programlar."
+      },
+      "performance": {
+        "title": "Performans Yönetimi",
+        "description": "İş gücü verimliliğini ölçmek ve geliştirmek için araçlar ve stratejiler."
+      }
+    }
+  },
+  "about": {
+    "title": "iTalentHunt Hakkında",
+    "description": "2010'dan beri şirketlerin yetenek kazanımı ve İK yönetimine yaklaşımını devrimleştiriyoruz. Yenilikçi çözümlerimiz yüzlerce organizasyonun daha güçlü takımlar kurmasına ve hedeflerine ulaşmasına yardımcı oldu.",
+    "values": {
+      "global": {
+        "title": "Global Erişim",
+        "description": "30'dan fazla ülkede çeşitli profesyonel ağımızla faaliyet gösteriyoruz."
+      },
+      "excellence": {
+        "title": "Mükemmellik",
+        "description": "Üstün sonuçlar sunmaya ve beklentileri aşmaya kararlıyız."
+      },
+      "efficiency": {
+        "title": "Verimlilik",
+        "description": "Kaliteden ödün vermeden zamandan tasarruf sağlayan optimize süreçler."
+      },
+      "trust": {
+        "title": "Güven",
+        "description": "Şeffaflık ve dürüstlük yoluyla kalıcı ilişkiler kuruyoruz."
+      }
+    }
+  },
+  "contact": {
+    "title": "İletişime Geçin",
+    "subtitle": "İK operasyonlarınızı dönüştürmeye hazır mısınız? Bugün bizimle iletişime geçin ve organizasyonunuza nasıl yardımcı olabileceğimizi konuşalım.",
+    "form": {
+      "firstName": "Ad",
+      "lastName": "Soyad",
+      "email": "E-posta",
+      "message": "Mesaj",
+      "submit": "Mesaj Gönder"
+    },
+    "info": {
+      "title": "İletişim Bilgileri",
+      "email": "E-posta",
+      "phone": "Telefon",
+      "address": "Adres"
+    }
+  },
+  "language": {
+    "en": "İngilizce",
+    "fi": "Fince",
+    "tr": "Türkçe"
+  }
+}

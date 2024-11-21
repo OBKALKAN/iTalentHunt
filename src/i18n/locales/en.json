@@ -1,0 +1,89 @@
+{
+  "nav": {
+    "services": "Services",
+    "about": "About Us",
+    "careers": "Careers",
+    "contact": "Contact",
+    "getStarted": "Get Started"
+  },
+  "hero": {
+    "title": "Unlock Your Company's",
+    "titleHighlight": "Full Potential",
+    "subtitle": "We connect exceptional talent with forward-thinking companies. Transform your workforce with our innovative HR solutions.",
+    "cta": {
+      "primary": "Get Started",
+      "secondary": "Learn More"
+    },
+    "stats": {
+      "companies": "Companies Served",
+      "success": "Success Rate",
+      "talents": "Talents Placed"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive HR solutions tailored to your needs",
+    "items": {
+      "recruitment": {
+        "title": "Talent Acquisition",
+        "description": "Find the perfect match for your team with our data-driven recruitment process."
+      },
+      "consulting": {
+        "title": "HR Consulting",
+        "description": "Strategic HR solutions to optimize your organizational structure and processes."
+      },
+      "development": {
+        "title": "Career Development",
+        "description": "Comprehensive programs for employee growth and skill enhancement."
+      },
+      "performance": {
+        "title": "Performance Management",
+        "description": "Tools and strategies to measure and improve workforce productivity."
+      }
+    }
+  },
+  "about": {
+    "title": "About iTalentHunt",
+    "description": "Since 2010, we've been revolutionizing how companies approach talent acquisition and HR management. Our innovative solutions have helped hundreds of organizations build stronger teams and achieve their goals.",
+    "values": {
+      "global": {
+        "title": "Global Reach",
+        "description": "Operating in 30+ countries with a diverse network of professionals."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Committed to delivering outstanding results and exceeding expectations."
+      },
+      "efficiency": {
+        "title": "Efficiency",
+        "description": "Streamlined processes that save time without compromising quality."
+      },
+      "trust": {
+        "title": "Trust",
+        "description": "Building lasting relationships through transparency and integrity."
+      }
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Ready to transform your HR operations? Contact us today and let's discuss how we can help your organization thrive.",
+    "form": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "phone": "Phone",
+      "address": "Address"
+    }
+  },
+  "language": {
+    "en": "English",
+    "fi": "Finnish",
+    "tr": "Turkish"
+  }
+}
